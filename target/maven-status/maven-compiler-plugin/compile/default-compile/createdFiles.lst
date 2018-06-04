@@ -1,0 +1,14 @@
+ru\vlsu\kyrsach2\api\DisciplineApi.class
+ru\vlsu\kyrsach2\model\User.class
+ru\vlsu\kyrsach2\api\UserApi.class
+ru\vlsu\kyrsach2\model\YMK.class
+ru\vlsu\kyrsach2\model\Question.class
+ru\vlsu\kyrsach2\api\QuestionApi.class
+ru\vlsu\kyrsach2\model\Discipline.class
+ru\vlsu\kyrsach2\api\SpecialityApi.class
+ru\vlsu\kyrsach2\model\ModelApiResponse.class
+ru\vlsu\kyrsach2\model\Speciality.class
+ru\vlsu\kyrsach2\model\Work.class
+ru\vlsu\kyrsach2\api\WorkApi.class
+ru\vlsu\kyrsach2\api\YmkApi.class
+Application.class
